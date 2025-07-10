@@ -1,0 +1,17 @@
+[
+  {
+    "nome": "Alice",
+    "idade": 30,
+    "ativo": true
+  },
+  {
+    "nome": "Bob",
+    "idade": 25,
+    "ativo": false
+  },
+  {
+    "nome": "Carol",
+    "idade": 22,
+    "ativo": true
+  }
+]
