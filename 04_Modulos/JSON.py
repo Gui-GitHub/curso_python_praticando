@@ -12,7 +12,7 @@ usuarios = [
 CAMINHO_ARQUIVO = os.path.abspath(
     os.path.join(
         os.path.dirname(__file__),
-        "usuarios.json"
+        "JSON.json"
     )
 )
 
