@@ -1,4 +1,4 @@
-# 🐍 curso_python_praticando
+# 🐍 Curso Python 3 - Completo do Básico ao Avançado (Praticando)
 
 Este repositório reúne exercícios práticos que estou desenvolvendo como parte do **curso de Python da Udemy** ministrado por **Luiz Otávio Miranda**.
 
