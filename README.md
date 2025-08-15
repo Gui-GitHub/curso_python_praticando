@@ -32,6 +32,78 @@ Este repositório é **pessoal** e tem como finalidade:
 
 ---
 
+## 📥 Como clonar este projeto
+
+> Substitua `SEU_USUARIO` pelo seu usuário real do GitHub (ex.: `guilhermecavalcante`).
+
+Clone via **HTTPS**:
+```bash
+git clone https://github.com/SEU_USUARIO/curso_python_praticando.git
+```
+
+Ou via **SSH** (se você já configurou uma chave SSH no GitHub):
+```bash
+git clone git@github.com:SEU_USUARIO/curso_python_praticando.git
+```
+
+Entre na pasta do projeto:
+```bash
+cd curso_python_praticando
+```
+
+---
+
+## 🖥 Como executar
+
+### 1) Pré-requisitos
+- **Python 3.8+** instalado  
+  Verifique a versão:
+  ```bash
+  python --version
+  ```
+  ou
+  ```bash
+  python3 --version
+  ```
+
+- **pip** instalado (geralmente já vem com o Python).  
+  Atualize o pip (opcional, recomendado):
+  ```bash
+  python -m pip install --upgrade pip
+  ```
+
+### 2) (Opcional) Criar e ativar um ambiente virtual
+Crie o ambiente:
+```bash
+python -m venv venv
+```
+
+Ative:
+- **Windows**
+  ```bash
+  venv\Scriptsctivate
+  ```
+- **Linux/macOS**
+  ```bash
+  source venv/bin/activate
+  ```
+
+### 3) Instalar as dependências
+Para instalar as dependências localize um arquivo `requirements.txt` no repositório e baixe-o:
+```bash
+pip install -r requirements.txt
+```
+
+### 4) Executar um exercício/script
+Substitua `nome_do_arquivo.py` pelo arquivo que deseja rodar:
+```bash
+python nome_do_arquivo.py
+```
+
+> Dica: Se o comando `python` não funcionar no seu sistema, tente `python3`.
+
+---
+
 ## 📝 Observações
 
 Todos os códigos são escritos de forma **simples e direta**, sem complexidade desnecessária, focando na **clareza e na compreensão** dos conceitos estudados.
